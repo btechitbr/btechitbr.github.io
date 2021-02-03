@@ -21,10 +21,11 @@
 title: BlackTech IT
 email: michelalvs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Test
+  BlackTech IT Services
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+#twitter_username: jekyllrb
+instagram_username: blacktechit
 github_username:  btechitbr
 
 # Build settings
