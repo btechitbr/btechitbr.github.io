@@ -6,8 +6,8 @@ categories: blog
 ---
 # Finalmente online!
 
-Olá!! Se você consegue ler esse post, significa que nosso site está no ar, hospedado no Github e funcionando.
-Planejamos fazer de 2021 um ano diferente. Quem já é cliente da Blacktech conhece nossa maneira de trabalhar e o atendimento, porém, confesso que demorei muito tempo para começar a trabalhar a imagem da empresa online. Com esse site/blog, pretendo divulgar mais a marca, assim como escrever pequenos, porém relevantes artigos sobre a área de tecnologia em geral. Também criei o [Instagram](https://instagram.com/blacktechit) da marca.
+Olá!! Se você consegue ler esse post, significa que nosso site está no ar e hospedado no Github.
+Planejamos fazer de 2021 um ano diferente. Quem já é cliente da Blacktech conhece nossa maneira de trabalhar, porém, confesso que demorei muito tempo para começar a fazer algo para divulgar a imagem da empresa nas redes. Com esse site/blog, pretendo divulgar mais a marca, assim como escrever pequenos, porém relevantes artigos sobre a área de tecnologia em geral. Também criei o [Instagram](https://instagram.com/blacktechit) da marca.
 
 
 <p>&nbsp;</p>
