@@ -21,7 +21,9 @@
 title: BlackTech IT
 email: michelalvs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  BlackTech IT Services
+  2021 - BlackTech IT Services® -
+  Todos os direitos reservados
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
